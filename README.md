@@ -28,4 +28,7 @@ yarn run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 
+### Show the final config file
+```
+vue inspect>output.js
+```
