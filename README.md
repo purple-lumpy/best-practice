@@ -32,3 +32,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 vue inspect>output.js
 ```
+
+### Show rules of webpack config
+```
+vue inspect --rules
+vue inspect --rule svg
+```
